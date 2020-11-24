@@ -25,7 +25,7 @@ I started my career in the not-for-profit sector working in various operational 
 ## Projects
 
 
-| Project         | Description                                                                                         | Tech                                | Try it                                                                                                         |
+| Project         | Description                                                                                         | Tech                                | Code Available At                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Subscrypt**      | Final Project at Makers Academy. A proof of concept subscription manager utilising Open Banking to read in recurring subscriptions and SendGrid to send calender events via e-mail to remind users to cancel subscriptions. | Go, Javascript, HTML, CSS, PostgreSQL, Github Actions | [Github](https://github.com/farhaan-ali/subscrypt)            |
 | **Bank Tech Test**    | A small test-driven program to interact within the command line    | Javascript, Jest, Travis CI            | [Github](https://github.com/farhaan-ali/bank-tech-test) |
