@@ -18,7 +18,6 @@ I started my career in the not-for-profit sector working in various operational 
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/farhaanali/)
 [![Email]](mailto:farhaan@farhaanali.com)
-[![GitHub Profile]](https://github.com/farhaan-ali)
 
 </div>
 
@@ -177,4 +176,3 @@ I have presented my previous organisations 5-year plan at the global conference 
 
 [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
-[github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
