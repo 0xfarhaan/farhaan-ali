@@ -7,7 +7,6 @@
 [Projects](#projects) |  [Skills](#skills) |
 [Education](#education) |
 [Experience](#experience) |
-[Hobbies](#hobbies)
 
 **I am currently looking for Junior Developer roles.**
 
@@ -173,29 +172,6 @@ I have presented my previous organisations 5-year plan at the global conference 
 - Delivered 50+ workshops to employees and members on topics from management to data literacy.
 - Facilitated a change management project to improve the efficiency of the business and generating buy-in from
   various stakeholders, including the Board of Directors.
-
-
-## Hobbies
-
-**Trading:** 
-During my free time I like to trade stocks and commodities.
-
-**Tinkering with Electronics:**
-I enjoy building things may that be computers or my current project of building a custom mechanical keyboard.
-
-**Walks:**
-I love going for long walks may that be in the countryside or exploring different parts of London.
-
-
-## Things I'm glad I did
-
-- Deliver a conference in a giant tent in Egypt
-
-- Work abroad
-
-- Volunteer in Colombia on various english education projects
-
-
 
 <!-- Badges n stuff  -->
 
