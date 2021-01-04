@@ -25,12 +25,13 @@ I started my career in the not-for-profit sector working in various operational 
 ## Projects
 
 
-| Project         | Description                                                                                         | Tech                                | Code Available At                                                                                                         |
+| Project         | Description                                                                                         | Tech                                | Try it                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Home Finder**           | A web app that allows a person who is looking to move into North/North-West London to search for postcode districts that fall within the desired commute time to their office.       | Python, Flask, GoogleMapsAPI, HTML, CSS, Heroku             | [Github](https://github.com/farhaan-ali/homefinder)                                     |
 | **Subscrypt**      | Final Project at Makers Academy. A proof of concept subscription manager utilising Open Banking to read in recurring subscriptions and SendGrid to send calendar events via e-mail to remind users to cancel subscriptions. | Go, Javascript, HTML, CSS, PostgreSQL, Github Actions | [Github](https://github.com/farhaan-ali/subscrypt)            |
-| **Bank Tech Test**    | A small test-driven program to interact within the command line    | Javascript, Jest, Travis CI            | [Github](https://github.com/farhaan-ali/bank-tech-test) |
-| **MakersBnB**           | A AirBnB clone redesigned       | Ruby, Sinatra, RSpec, PostgreSQL, HTML, CSS             | [Github](https://github.com/farhaan-ali/makersbnb)                                                                              |
 | **Acebook**      | A Facebook clone redesigned | Rails, Ruby, RSpec, PostgreSQL, HTML, Javascript, CSS               | [Github](https://github.com/farhaan-ali/acebook-team-rex)
+| **Bank Tech Test**    | A small test-driven program to interact within the command line    | Javascript, Jest, Travis CI            | [Github](https://github.com/farhaan-ali/bank-tech-test) |
+
 
 
 ## Skills
@@ -79,6 +80,7 @@ I have presented my previous organisations 5-year plan at the global conference 
       </td>
       <td style="vertical-align: top">
         <ul>
+          <li>Flask</li>
           <li>Rails</li>
           <li>Sinatra</li>
           <li>Node.js</li>
