@@ -2,7 +2,7 @@
 
 # Farhaan Ali
 
-<h3>Junior Full Stack Developer</h3>
+<h3>Software Engineer</h3>
 
 [Projects](#projects) |  [Skills](#skills) |
 [Education](#education) |
